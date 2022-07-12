@@ -1,2 +1,2 @@
 # devweekgit.github.io
-Currículo do Jornada Dev
+Currículo de desenvolvimento front end para a maratona Jornada Dev da EBAC.
